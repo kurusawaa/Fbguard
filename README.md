@@ -10,7 +10,7 @@ pip install requests
 
 pkg install git
 
-git clone https://github.com/Fbguard/fbguardv3.git
+git clone https://github.com/kurusawaa/fbguardv3.git
 
 python3 fbguardv3.py
 
